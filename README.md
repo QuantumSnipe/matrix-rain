@@ -12,6 +12,6 @@ A Python script that simulates the digital rain from the movie "The Matrix" in t
 ```bash
 pip install -r requirements.txt
 python matrix_rain.py
-
+```
 
 ![Matrix Rain Demo](assets/demo.png)
