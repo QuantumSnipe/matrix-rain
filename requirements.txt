@@ -1,0 +1,6 @@
+# This project uses only standard Python libraries:
+# - curses (built-in on Unix-like systems; on Windows, install 'windows-curses' via pip)
+# - random
+# - time
+
+# No external dependencies required for most users.
